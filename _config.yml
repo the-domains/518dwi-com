@@ -1,0 +1,28 @@
+name: 518DWI.COM
+favicon: null
+layout_spectrum: 0.7544762848410755
+typography_spectrum: 0.6851757981348783
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2378086932003498
+  lightness: 0.6607908410951495
+  saturation: 0.5332422824576497
+  rhythmicContrast: 0.9625859898515046
+purpose: []
